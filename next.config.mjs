@@ -13,7 +13,7 @@ export default withSentryConfig(nextConfig, {
 
 // Suppresses source map uploading logs during build
 silent: false,
-org: "perp",
+org: "tempo-0z",
 project: "zerodev-nextjs-2",
 }, {
 // For all available options, see:
